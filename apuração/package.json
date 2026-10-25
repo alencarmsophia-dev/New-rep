@@ -1,5 +1,0 @@
-{
-  "name": "painel-apuracao",
-  "private": true,
-  "scripts": { "start": "node server.js" }
-}
